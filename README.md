@@ -6,4 +6,4 @@
 
 Скриншоты:
 
-![Image alt](https://github.com/timaxutka/Lab3_BPA/blob/main/Снимок экрана 2023-05-22 180745.png)
+![Image alt](https://github.com/timaxutka/Lab3_BPA/blob/main/Lab3_1.png)
